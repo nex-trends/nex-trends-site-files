@@ -10,20 +10,35 @@
 
   <url>
     <loc>https://nex-trends.com/</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <image:image>
-      <image:loc>https://nex-trends.com/images/hero-banner.jpg</image:loc>
-      <image:title>Nex-Trends - AI Growth System for Local Business</image:title>
+      <image:loc>https://assets.cdn.filesafe.space/4uidKCLc9cUm6gNnMfae/media/6a7a0d7b5c7fc4f61ff63ebf.png</image:loc>
+      <image:title>Nex-Trends - AI Business Services &amp; CRM Solutions</image:title>
     </image:image>
   </url>
 
   <url>
     <loc>https://nex-trends.com/services</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/4uidKCLc9cUm6gNnMfae/media/6a7a0d7b5a64f2b5673098e1.png</image:loc>
+      <image:title>AI-Powered Business Services | Nex-Trends</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://nex-trends.com/ai-employees</loc>
+    <lastmod>2026-08-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/4uidKCLc9cUm6gNnMfae/media/6a7a0d7b03343f290fafee19.png</image:loc>
+      <image:title>AI Employees | 24/7 Virtual AI Staff | Nex-Trends</image:title>
+    </image:image>
   </url>
 
   <url>
@@ -35,9 +50,13 @@
 
   <url>
     <loc>https://nex-trends.com/contact</loc>
-    <lastmod>2026-07-27</lastmod>
+    <lastmod>2026-08-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://assets.cdn.filesafe.space/4uidKCLc9cUm6gNnMfae/media/6a7a108c5c7fc4f61ffdb495.png</image:loc>
+      <image:title>Contact Nex-Trends | Start Your Free AI Audit</image:title>
+    </image:image>
   </url>
 
   <url>
@@ -47,16 +66,12 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- SMS Opt-In: Keep indexed for A2P compliance trust -->
   <url>
     <loc>https://nex-trends.com/sms-opt-in</loc>
     <lastmod>2026-07-27</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
-
-  <!-- REMOVED: /privacy /terms /do-not-call /digital-consent         -->
-  <!-- Add <meta name="robots" content="noindex"> to those page heads  -->
 
   <!-- ============ BLOG — Uncomment when live ============ -->
   <!--
@@ -65,36 +80,6 @@
     <lastmod>YYYY-MM-DD</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://nex-trends.com/blog/what-is-a-smart-growth-system</loc>
-    <lastmod>YYYY-MM-DD</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://nex-trends.com/blog/speed-to-lead-why-5-minutes-matters</loc>
-    <lastmod>YYYY-MM-DD</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://nex-trends.com/blog/static-website-vs-ai-growth-system</loc>
-    <lastmod>YYYY-MM-DD</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://nex-trends.com/blog/ai-voice-agent-for-local-business</loc>
-    <lastmod>YYYY-MM-DD</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://nex-trends.com/blog/automated-follow-up-sequences-for-contractors</loc>
-    <lastmod>YYYY-MM-DD</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
   -->
 
